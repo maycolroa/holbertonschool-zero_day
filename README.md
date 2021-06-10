@@ -1,1 +1,1 @@
-proyecto git 
+cooreccion de punto 
