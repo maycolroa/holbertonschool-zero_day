@@ -1,1 +1,1 @@
-proyecto git 
+proyecto 
